@@ -1,10 +1,23 @@
 {
     "snacks": [
         {
-            "name": "Mexicano"
+            "id": 1,
+            "list": [
+                {
+                    "name": "Mexicano"
+                }
+            ]
         },
         {
-            "name": "Apple Pay"
+            "id": 2,
+            "list": [
+                {
+                    "name": "Mexicano"
+                },
+                {
+                    "name": "Apple Pay"
+                }
+            ]
         }
     ]
 }
